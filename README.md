@@ -34,3 +34,13 @@ Execute a aplicação: Inicie o servidor Flask com:
 python app.py
 
 Acesse a aplicação: Abra o navegador e vá até http://localhost:5000 para começar a usar o Gerenciador de Notas.
+
+
+### Dicas Extras:
+- **Visualizar no GitHub:** Caso você tenha feito um push para o GitHub, ao acessar o repositório, o arquivo `README.md` será exibido automaticamente na página principal do repositório.
+- **Verificação local:** Se você não tiver o GitHub configurado ou estiver verificando localmente, você pode visualizar o `README.md` com qualquer editor de texto. Se quiser algo mais visual, pode instalar um visualizador de Markdown no seu editor, como o "Markdown Preview" no VSCode.
+
+Isso deve resolver! Se o arquivo estiver sendo editado corretamente agora, o conteúdo do `README.md` estará pronto para ser usado e exibido de forma apropriada.
+
+```
+
