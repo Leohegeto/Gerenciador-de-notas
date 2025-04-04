@@ -20,6 +20,7 @@ Este é um **Gerenciador de Notas** simples e eficiente, projetado para ajudar a
 Siga os passos abaixo para configurar o projeto em seu ambiente local:
 
 **Clone o repositório:**
+
 git clone https://github.com/SEU-USUARIO/gerenciador-de-notas.git
 
 Instale as dependências: Navegue até a pasta do projeto e instale as dependências com:
@@ -27,6 +28,7 @@ Instale as dependências: Navegue até a pasta do projeto e instale as dependên
 pip install -r requirements.txt
 
 Configure o banco de dados (se necessário): Caso precise inicializar o banco de dados, execute:
+
 python setup_db.py
 
 Execute a aplicação: Inicie o servidor Flask com:
